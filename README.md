@@ -1,5 +1,4 @@
-# whmcs-module
-Ilkbyte WHMCS module
+# İlkbyte WHMCS Module
 
 This project contains the WHMCS module, which enables the resale of ilkbyte.com's servers / services on the WHMCS automation system.
 
